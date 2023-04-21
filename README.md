@@ -4,7 +4,7 @@ This repository introduces SymphonyNet-MP3 dataset of orchestral music pieces in
 
 The mp3's are generated through MuseScore 3. 
 
-Up to now, only the classical part of the original dataset is utilized. The total number of pieces is 728. 
+Up to now, only the classical part of the original dataset is utilized. The total number of pieces is 728. The dataset is generated in less than one day.
 
 Download the dataset from the following link: 
 
