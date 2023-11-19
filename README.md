@@ -1,6 +1,6 @@
 # SymphonyNet-MP3
 
-This repository introduces SymphonyNet-MP3 dataset of orchestral music pieces in MP3 form, directly generated from the MIDI files of SymphonyNet dataset. 
+This repository provides SymphonyNet-MP3 dataset, a dataset of music pieces in MP3 form, which are directly generated from the MIDI files of SymphonyNet dataset. 
 
 The mp3's are generated through MuseScore 3. 
 
